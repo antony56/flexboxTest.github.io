@@ -1,0 +1,33 @@
+.my-flex-container {
+  border: 2px solid green;
+  height: 100px;
+  margin-bottom: 20px;
+  background-color: azure;
+}
+
+.my-flex-container-column {
+  border: 2px solid green;
+  height: 200px;
+  margin-bottom: 20px;
+  background-color: rgb(132, 179, 179);
+}
+.my-flex-item {
+  background-color: lightgrey;
+  border: 1px dotted grey;
+  height: 48px;
+}
+
+.my-flex-item-2 {
+  background-color: lightgrey;
+  border: 1px dotted grey;
+  height: 96px;
+}
+
+.para {
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+  border: 1px solid black;
+  width: fit-content;
+  background-color: bisque;
+  font-weight: bold;
+}
